@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328699288162",
+    "firebase_url": "https://snapchat-kotlin-102fd.firebaseio.com",
+    "project_id": "snapchat-kotlin-102fd",
+    "storage_bucket": "snapchat-kotlin-102fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328699288162:android:876873fc1165862e2f0f3b",
+        "android_client_info": {
+          "package_name": "com.abhi.snapchatkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328699288162-9ladk063qkbdil1n3de8gf4jkhjgtru8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.snapchatkotlin",
+            "certificate_hash": "15887fa59ff46a2ad19e30c9b1721a7042310378"
+          }
+        },
+        {
+          "client_id": "328699288162-uvpnhf72keaj7ulbg5l4rp1mm17ro89e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTuwhAB66rmc4vqVuTSDQE9NYohbcSCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328699288162-uvpnhf72keaj7ulbg5l4rp1mm17ro89e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
